@@ -1,7 +1,3 @@
--- Task 7: SQL Developer Internship
--- Creating Views
-
--- Sample tables
 CREATE TABLE Employees (
     emp_id INT PRIMARY KEY,
     emp_name VARCHAR(100),
